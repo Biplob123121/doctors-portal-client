@@ -5,8 +5,8 @@ const Contact = () => {
     return (
         <section style={{
             background: `url(${bgImage})`
-        }} className='my-28'>
-            <div className=' w-1/2 mx-auto py-8 text-center'>
+        }} className='mt-28'>
+            <div className=' lg:w-1/2 mx-auto py-8 text-center'>
                 <div>
                 <h3 className='text-xl font-bold text-primary uppercase'>Contact us</h3>
                 <h2 className="text-3xl text-white">Stay connected with Us</h2>
